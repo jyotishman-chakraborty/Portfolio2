@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Analog Watch",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "analogwatch",
+    "category": "javascript",
+    "links": {
+      "view": "https://jyotishman-chakraborty.github.io/AnalogWatch/",
+      "code": "https://github.com/jyotishman-chakraborty/AnalogWatch"
+    }
+  },
+  
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Full-Stack Hospital Management System Website built using HTML,CSS,JavaScript & JSP.",
+    "image": "calculator",
+    "category": "javascript",
+    "links": {
+      "view": "https://jyotishman-chakraborty.github.io/calculator/",
+      "code": "https://github.com/jyotishman-chakraborty/Hospital-Management-System-HMS-"
+    }
+  },
+  {
+    "name": "WEATHER API",
+    "desc": "JavaScript based WEATHER Application that display the current temperature, humidity, wind speed, and weather conditions.",
+    "image": "WeatherApi",
+    "category": "javascript",
+    "links": {
+      "view": "https://jyotishman-chakraborty.github.io/Weather-API/",
+      "code": "https://github.com/jyotishman-chakraborty/Weather-API"
+    }
+  },
+  {
+    "name": "To-Do-List",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "Todolist",
+    "category": "javascript",
+    "links": {
+      "view": "https://jyotishman-chakraborty.github.io/To-Do-List./",
+      "code": "https://github.com/jyotishman-chakraborty/To-Do-List."
+    }
+  },
+  
+  {
+    "name": "Hospital Management System",
+    "desc": "Full-Stack Hospital Management System Website built using HTML,CSS,JavaScript & JSP.",
+    "image": "hospital1",
+    "category": "jsp",
+    "links": {
+      "view": "",
+      "code": "https://github.com/jyotishman-chakraborty/Hospital-Management-System-HMS-"
+    }
+  },
+  {
+    "name": "Amazon Clone",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "amazon",
+    "category": "html",
+    "links": {
+      "view": "https://jyotishman-chakraborty.github.io/Amazon-Clone/",
+      "code": "https://github.com/jyotishman-chakraborty/Amazon-Clone"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only",
+    "image": "portfolio",
+    "category": "html",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Railway Reservation System",
+    "desc": "built fully functional Online 'Railway Reservation System' ,both frontend and backend with HTML, CSS, Java Script and JSP(ORACLE).",
+    "image": "rail",
+    "category": "jsp",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  }
+]
